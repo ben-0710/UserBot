@@ -1,1 +1,3 @@
-print("This Python File for TeamHTP")
+a = input("\nENTER SOMETHING : ")
+
+print(a)
